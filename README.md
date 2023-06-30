@@ -31,4 +31,4 @@ Oiii! Eu sou a Mayara
  
  </div>
  
-![Snake](https://github.com/Maysouzac/Maysouzac/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/MAYSOUZAC/MAYSOUZAC/blob/output/github-contribution-grid-snake.svg)
